@@ -37,8 +37,8 @@
 ||aryion.com^
 ||e926.net^
 ||e621.net^
-||e621.cc
-||e6ai.net
+||e621.cc^
+||e6ai.net^
 ||furry.ink^
 ||furrynetwork.com^
 ||furryplay.com^
@@ -65,7 +65,3 @@
 ||yiffer^
 ||yiffyfur.tube^
 ||furrymuck.org^
-
-# Furry Domain Ending Blocker?
-||fur^
-||.fur^
