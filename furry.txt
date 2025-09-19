@@ -123,7 +123,6 @@
 ||furmeet.me^
 ||yiff.today^
 ||material-e621.avoonix.com^
-||furrynetwork.com^
 ||kheina.com^
 ||sonasky.app^
 ||e621trends.com^
@@ -139,8 +138,6 @@
 ||furnationreborn.com^
 ||anthrocon.org^
 ||e621-top.github.io^
-||furfling.com^
 ||furriesunleashed.org^
 ||furryvalley.com^
 ||fp-list.com^
-||yiffer.xyz^
