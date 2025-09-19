@@ -1,0 +1,9 @@
+# Steam servers
+
+||steamserver.net^
+||steamcommunity.com^
+||steampowered.com^
+||steamstatic.com^
+||steamcontent.com^
+||steam-chat.com^
+||steamusercontent.com^
