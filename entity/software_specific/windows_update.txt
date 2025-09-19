@@ -1,0 +1,9 @@
+# Windows Update
+
+||windowsupdate.com^
+||update.microsoft.com^
+||windowsupdate.com.delivery.microsoft.com^
+||windowsupdate.microsoft.com^
+||ntservicepack.microsoft.com^
+||wustat.windows.com^
+||forefrontdl.microsoft.com^

@@ -1,0 +1,5 @@
+# TeamViewer
+
+||teamviewer.com^
+||teamviewer.cn^
+||tvcdn.de^

@@ -1,0 +1,9 @@
+# Apple Update (Incomplete)
+
+||gdmf.apple.com^
+||mesu.apple.com^
+||xp.apple.com^
+||configuration.apple.com^
+||mesu.g.aaplimg.com^
+||gdmf.v.aaplimg.com^
+||updates.cdn-apple.com^
