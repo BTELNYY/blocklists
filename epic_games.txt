@@ -1,0 +1,4 @@
+# Epic games (Not indvidual games, just the store)
+
+||epicgames.com^
+||epicgames.dev^ 

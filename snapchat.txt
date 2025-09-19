@@ -1,0 +1,19 @@
+# Snapchat Domains
+
+||snapchat.com^
+||sc-cdn.net^
+||sc-gw.com^
+||snapkit.com^
+||sc-static.net^
+||sc-prod.net^
+||sc-jpl.com^
+||snap.com^
+||snapads.com^
+||sc-corp.net^
+||addlive.io^
+||snap-dev.net^
+||feelinsonice.com^
+||snap-storage-cdn.l.google.com^
+||snapmap.com^
+||snapmap.org^
+||snapmaps.com^

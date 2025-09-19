@@ -1,0 +1,9 @@
+# Roblox domains
+
+||roblox.com^
+||rbxcdn.com^
+||rbxinfra.net^
+||rbxtrk.com^
+||roblox.co.uk^
+||roblox.net^
+||roblox.us^
