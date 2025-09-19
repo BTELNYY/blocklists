@@ -1,0 +1,7 @@
+# OpenAI (and ChatGPT) Domains
+
+||openai.com^
+||oaistatic.com^
+||chatgpt.com^
+||chat.openai.com^
+||searchgpt.com^

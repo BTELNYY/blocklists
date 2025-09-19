@@ -1,0 +1,4 @@
+# Anthropic (the AI company) Domains
+
+||anthropic.com^
+||claude.ai^

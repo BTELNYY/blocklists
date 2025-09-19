@@ -1,0 +1,7 @@
+# Disney+ Domains
+
+||dssott.com^
+||disney-plus.net^
+||disneyplus.com^
+||dssedge.com^
+||search-api-disney.bamgrid.com^

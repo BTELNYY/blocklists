@@ -1,0 +1,18 @@
+# X (formerly twitter) domains
+
+
+||twitter.com^
+||t.co^
+||twimg.com^
+||ads-twitter.com^
+||x.com^
+||pscp.tv^
+||twtrdns.net^
+||twttr.com^
+||periscope.tv^
+||twitpic.com^
+||tweetdeck.com^
+||twitter.co^
+||twitterinc.com^
+||twitteroauth.com^
+||twitterstat.us^

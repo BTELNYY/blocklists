@@ -1,0 +1,7 @@
+# Reddit Domains
+
+||reddit.com^
+||redditstatic.com^
+||redd.it^
+||redditmedia.com^
+||redditspace.com^
