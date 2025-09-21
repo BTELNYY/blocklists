@@ -1,0 +1,9 @@
+# PlayStation domains
+
+||playstation.net^
+||playstation.com^
+||playstation.net.edgekey88.net^
+||sonyentertainmentnetwork.com^
+||playstation.com.edgekey88.net^
+||gaikai.com^
+||playstation-cloud.net^

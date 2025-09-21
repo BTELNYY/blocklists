@@ -1,0 +1,7 @@
+# Minecraft and Mojang stuff
+
+||minecraft-services.net^
+||minecraft.net^
+||mojang.com^
+||minecraftservices.com^
+||minecraftprod.rtep.msgamestudios.com^

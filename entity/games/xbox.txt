@@ -1,0 +1,7 @@
+# Xbox Live and such domains
+
+||gamepass.com^
+||xboxlive.com^
+||xboxab.com^
+||xboxservices.com^
+||xbox.ipv6.microsoft.com^

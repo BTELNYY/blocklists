@@ -1,0 +1,10 @@
+# Nintendo domains
+
+||nintendo.net^
+||nintendo.com^
+||nintendowifi.net^
+||noa.com^
+||wii.com^
+||butterfree.com^
+||donkeykong.com^
+||pokemon.com^
