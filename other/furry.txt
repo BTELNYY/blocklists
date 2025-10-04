@@ -22,6 +22,7 @@
 ||furiffic.com^
 ||transfur.com^
 ||vclart.net^
+||furtopia.com^
 ||anthrofiction.net^
 ||wilddream.com^
 ||wilddream.net^
@@ -47,6 +48,8 @@
 ||stellarfur.net^
 ||untitled-furry-game.fandom.com^
 ||furry.ink^
+||dogpatch.press^
+||furtastic.art^
 ||furryiff.com^
 ||furrynetwork.com^
 ||furryplay.com^
