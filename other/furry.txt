@@ -3,6 +3,7 @@
 # Pi-Hole format.
 
 ||furaffinity.net^
+||xfuraffinity.net^
 ||weasyl.com^
 ||sofurry.com^
 ||f-list.net^
